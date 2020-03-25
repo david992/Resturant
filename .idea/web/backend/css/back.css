@@ -1,0 +1,43 @@
+			body{
+				margin: 0px;
+				background-color: #EEF2FB;
+			}
+			*{
+				color: #333333;
+				font-family: "宋体";
+				font-size: 12px;
+			}
+			.main{
+				width: 1190px;
+				height: 450px;
+				float: left;
+				border: 1px #9EAEB9 solid;
+				background-color: #F7F8F9;
+				border-radius: 5px;
+			}
+			.content{
+				width: 1190px;
+				height: 31px;
+				float: left;
+				background-image: url(../img/content-bg.gif);
+				
+			}
+			.title{
+				width: 85px;
+				height: 29px;
+				float: left;
+				background-image: url(../img/top_bt.jpg);
+				margin-left: 10px;
+			}
+			h4{
+				width: 85px;
+				height: 29px;
+				display: block;
+				float: left;
+				text-align: center;
+				line-height: 40px;
+				margin: 0px;
+			}
+			a{
+				text-decoration: none;
+			}
